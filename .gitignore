@@ -1,3 +1,6 @@
 assets/
+!assets/.gitignore
 protected/runtime/
+!protected/runtime/.gitignore
 themes/classic/views/
+nbproject/
